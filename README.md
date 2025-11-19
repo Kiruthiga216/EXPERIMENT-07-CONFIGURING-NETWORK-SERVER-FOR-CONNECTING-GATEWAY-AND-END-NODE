@@ -58,6 +58,33 @@ To set APP Key
 ## OUTPUT 
 
 
+<img width="939" height="558" alt="image" src="https://github.com/user-attachments/assets/38a205e7-6d82-4ab8-abf8-882e532b8ed6" />
+
+<img width="1647" height="978" alt="image" src="https://github.com/user-attachments/assets/e411860d-c640-43c4-af62-f3d1bb77eb60" />
+
+<img width="1290" height="754" alt="image" src="https://github.com/user-attachments/assets/933bf4cc-2b9e-412e-b3de-91b91b55e590" />
+
+<img width="1649" height="985" alt="image" src="https://github.com/user-attachments/assets/b06c7c04-d02a-42e5-9e9d-adeadc8cf5c7" />
+
+<img width="1649" height="982" alt="image" src="https://github.com/user-attachments/assets/8f5fd507-d51a-42de-a5bc-b2b694ff2537" />
+
+<img width="934" height="546" alt="image" src="https://github.com/user-attachments/assets/7b96c48d-6306-4396-8f6b-02e759fd7650" />
+
+<img width="924" height="553" alt="image" src="https://github.com/user-attachments/assets/163d34d9-0fcc-4abb-b9df-e46d65ae65af" />
+
+<img width="928" height="550" alt="image" src="https://github.com/user-attachments/assets/ad92ea92-00ff-49a1-969c-5538d307513e" />
+
+<img width="931" height="558" alt="image" src="https://github.com/user-attachments/assets/4355d27c-a56f-432b-ac20-f5c79fc72bb4" />
+
+
+
+
+
+
+
+
+
+
 ## Result: 
 
   The Network server and end device for transferring data on the network has been accomplished.
