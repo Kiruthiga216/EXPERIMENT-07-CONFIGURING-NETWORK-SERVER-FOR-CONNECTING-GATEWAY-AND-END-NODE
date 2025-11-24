@@ -119,10 +119,6 @@ To set APP Key
 
 <img width="1919" height="1035" alt="Screenshot 2025-11-24 100043" src="https://github.com/user-attachments/assets/be01dee4-6a36-4fa8-8171-073cebd69ee4" />
 
-<img width="1916" height="1029" alt="Screenshot 2025-11-24 111121" src="https://github.com/user-attachments/assets/04400e6c-719d-44cf-9469-9ae96b9e52e3" />
-
-<img width="1918" height="1031" alt="Screenshot 2025-11-24 111131" src="https://github.com/user-attachments/assets/a640ec01-3ac9-4b42-b5ae-e7b1befdb8e2" />
-
 
 
 <img width="1919" height="1144" alt="Screenshot 2025-11-24 095341" src="https://github.com/user-attachments/assets/ed72c5eb-7f4b-4702-9429-ce44927be6a4" />
